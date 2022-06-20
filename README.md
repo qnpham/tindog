@@ -1,2 +1,1 @@
-# tindog
-angela yu tutorial
+TinDog Starting Files
